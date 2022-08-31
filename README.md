@@ -34,3 +34,5 @@ to our text.
 It will also enable the user to use different font colors along with the
 features of text editor which gives the user a whole new experience as
 compared to the old traditional text editor.
+
+Project was in progress and will be updated soon
