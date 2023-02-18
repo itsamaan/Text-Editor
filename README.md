@@ -34,3 +34,10 @@ to our text.
 It will also enable the user to use different font colors along with the
 features of text editor which gives the user a whole new experience as
 compared to the old traditional text editor.
+
+
+![Screenshot (162)](https://user-images.githubusercontent.com/99782520/219855641-b89f8636-476d-4703-b7c0-18fedabe4598.png)
+![Screenshot (163)](https://user-images.githubusercontent.com/99782520/219855653-efcc076b-6c46-4f4c-bb0f-d2fe4e403317.png)
+
+
+
